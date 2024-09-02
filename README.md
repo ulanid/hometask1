@@ -4,6 +4,6 @@
     vagrant up
 
 ### Student:
-Uliana Voitovych \
+Uliana Voitovych 
 
 Group: **4CS-33**
